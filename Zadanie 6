@@ -1,0 +1,16 @@
+<html>
+      <body bgcolor = "pink">
+      <h1 align = "center"> MOJA STRONA</h1>
+      <h2 align = "center"> Zadanie 6 </h2>
+      <ul>
+            <ol>MENU</ol>
+            <ol><a href= "http://www.onet.pl">ONET</a></ol>
+            <ol><a href = "https://uafm.edu.pl">FRYCZ</a></ol>
+
+      </ul>
+      <img src = "Kot.jpg" alt ="Kotek"></img>
+
+      </body>
+
+
+</html>
